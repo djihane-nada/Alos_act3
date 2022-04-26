@@ -1,4 +1,4 @@
-//Request Most Viewed products based on category abcat0107000 otherwise known as “TV & Home Theater Accessories.” 
+//Request Most Viewed products based on category abcat0107000 otherwise known as “TV & Home Theater Accessories
 
 const jwt = require("jsonwebtoken");
 module.exports=function(require)
